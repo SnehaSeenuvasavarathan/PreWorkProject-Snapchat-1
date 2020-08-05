@@ -1,0 +1,155 @@
+
+            .container {
+                display: flex;
+                flex-direction: column;
+                margin:0px;
+                padding:0px;
+            }
+            .container>div {
+                text-align: center;
+                font-size: 2em;
+            }
+            
+            .addim{
+               display: flex;
+               flex-direction: row;
+               justify-content: space-around;
+               margin-top: 30px;
+            }
+            nav ul li{
+                list-style: none;
+                display: inline;
+                padding: 20px;
+             
+                
+            }
+            .logo img{
+                width: 30px;
+                height:30px;
+                position: absolute;
+                left:40px;
+                top:20px;
+                
+            }
+            .im1 img{
+                height: 200px;
+                width: 300px;
+            }
+            .im2 img{
+                height: 200px;
+                width: 300px;
+            }
+            .im3 img{
+                height: 200px;
+                width: 300px;
+            }
+            nav a{
+                display: block;
+                text-align: center;
+            }
+            nav ul li a{
+                float:left;
+                text-decoration: none;
+                color: black;
+                
+            }
+            .home {
+                background-color:white;
+                height: 40px;
+                font-size: 16px;
+                margin-bottom: 20px;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            
+            .about {
+                background-color: yellow;
+                height: 450px;
+            
+            }
+            .sub{
+                margin-top: 20px;
+                
+            }
+            .sub button{
+                font-family: Arial, Helvetica, sans-serif;
+                border-radius: 20px;
+                border:white;
+                height:50px;
+                width:130px;
+            }
+            .content{
+                margin-top: 45px;
+                font-weight: 800;
+            }
+            .services {
+                display: flex;
+                flex-direction: row;
+                justify-content: space-around;
+                background-color: whitesmoke;
+                height:220px;
+                font-size: 12px;
+            
+            }
+            
+            
+            .l1 ul li{
+                font-size: 12px;
+                text-align: left;
+                font-weight: 300px;
+                font-family: Arial, Helvetica, sans-serif;
+                padding:5px;
+                
+            }
+
+            .l2 ul li{
+                font-size: 12px;
+                text-align: left;
+                font-weight: 300px;
+                font-family: Arial, Helvetica, sans-serif;
+                padding:3px;
+                
+            }
+
+            .l3 ul li{
+                font-size: 12px;
+                text-align: left;
+                font-weight: 300px;
+                font-family: Arial, Helvetica, sans-serif;
+                padding:3px;
+                
+            }
+
+            .l4 ul li{
+                font-size: 12px;
+                text-align: left;
+                font-weight: 300px;
+                font-family: Arial, Helvetica, sans-serif;
+                padding:3px;
+                
+            }
+            .drop{
+                margin-bottom: 10px;
+            }
+            .privacy {
+                display: flex;
+                flex-direction: row;
+                background-color:black;
+                height: 90px;
+                
+                
+            }
+            
+            .privacy ul li{
+                list-style: none;
+                display: inline-block;
+                padding: 20px;
+                font-family: Arial, Helvetica, sans-serif;
+                color: white;
+                font-size: 16px;
+                text-align: left;
+                left:0px;
+                
+                
+            }
+            
+   
